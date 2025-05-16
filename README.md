@@ -70,7 +70,7 @@ Feel free to open an [Issue](https://github.com/yourusername/xytherion/issues) o
 ├── docs/           # Forbidden documentation
 └── README.md       # You are here
 ```
-
+---
 
 ## 🧬 Philosophy
 
