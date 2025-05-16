@@ -72,6 +72,14 @@ Feel free to open an [Issue](https://github.com/yourusername/xytherion/issues) o
 
 ---
 
+## 🧬 Philosophy
+
+> "The ruins of ancient civilizations are not dead—they are fixed points in recursive time loops, whispering in algorithmic tongues that rewrite themselves with every iteration."
+
+Xytherion is more than code. It is an experiment in metaphysical simulation, recursive computation, and the edge of mathematical sanity.
+
+---
+
 ## 📜 License
 
 Released under the [Anti-Causality License](https://en.wikipedia.org/wiki/Paradox) — use at your own risk.
