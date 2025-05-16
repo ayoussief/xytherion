@@ -70,15 +70,16 @@ Feel free to open an [Issue](https://github.com/yourusername/xytherion/issues) o
 └── README.md # You are here
 
 
----
+## 📁 Repository Contents
 
-## 🧬 Philosophy
-
-> "The ruins of ancient civilizations are not dead—they are fixed points in recursive time loops, whispering in algorithmic tongues that rewrite themselves with every iteration."
-
-Xytherion is more than code. It is an experiment in metaphysical simulation, recursive computation, and the edge of mathematical sanity.
-
----
+```
+/xytherion
+├── src/            # Core source code
+├── lore/           # Extracted philosophical payloads
+├── assets/         # Geometrically unstable visuals
+├── docs/           # Forbidden documentation
+└── README.md       # You are here
+```
 
 ## 📜 License
 
